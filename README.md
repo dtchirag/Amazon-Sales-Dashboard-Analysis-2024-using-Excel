@@ -13,7 +13,7 @@ o Source: Simulated Amazon sales data.
 o Size: 300+ cities across 20+ states.
 o Fields: City, State, Product Category, Sales Amount (₹), Units Sold.
 
-Workflow Summary:<a href="Territorial Tracker FY-2024.png">Calculations</a>
+Workflow Summary: <a href="Territorial Tracker FY-2024.png">Calculations</a>
 o Cleaned and structured raw data.
 o Aggregated sales and units sold by city, state, and category.
 o Built pivot tables for dynamic filtering.
