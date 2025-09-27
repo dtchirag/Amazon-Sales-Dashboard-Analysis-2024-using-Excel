@@ -28,7 +28,7 @@ o Progress Tracker (Achieved vs Target).
 o Territorial Sales Overview.
 o Completion Percentage Display.
 
-Insights & Results:
+Insights & Results: <a href="Project 01.xlsx">Final outcome</a>
 o	Top States: Uttar Pradesh, Rajasthan, Tamil Nadu.
 o	Top Cities: Varanasi, Jaipur, Dehradun.
 o	Best-Selling Categories: Electronics, Furniture, Toys.
