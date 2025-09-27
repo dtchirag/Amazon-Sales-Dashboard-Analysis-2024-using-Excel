@@ -21,6 +21,7 @@ o Designed dashboard layout with slicers and labelled visuals.
 o Created performance tracker for target vs. achieved metrics
 
 Key Dashboard Features:
+ <a href=Visualizations Overview – Amazon Sales Dashboard 2024.png>Visualization</a>
 o City-wise Sales Performance.
 o State-wise Sales Analysis.
 o Product Category Breakdown.
